@@ -1,0 +1,469 @@
+/* screen - form-selection */
+
+.arial-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-blue-dianne-20px {
+  color: var(--blue-dianne);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-galliano {
+  border: 1px solid var(--galliano);
+}
+.form-selection {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.form-selection .auction-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1330px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .auction-pickup-form-bAyQtV {
+  background-color: transparent;
+  bottom: -3px;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.form-selection .auction-scheduling-form-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 491px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 903px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .auctionpickup-bAyQtV {
+  background-color: transparent;
+  height: 47px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(49.92% - 34px);
+  text-align: left;
+  top: calc(42.71% - 20px);
+  white-space: nowrap;
+  width: 69px;
+}
+.form-selection .auctionscheduling-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 551px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 741px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .completion-form-xFApRQ {
+  background-color: transparent;
+  bottom: -3px;
+  height: 24px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 30px);
+}
+.form-selection .completion-xFApRQ {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(48.69% - 50px);
+  text-align: left;
+  top: calc(38.40% - 9px);
+  white-space: nowrap;
+  width: 103px;
+}
+.form-selection .customers-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .group-10-C61RwL {
+  background-color: transparent;
+  height: 287px;
+  left: 868px;
+  position: absolute;
+  top: 283px;
+  width: 185px;
+}
+.form-selection .group-11-C61RwL {
+  background-color: transparent;
+  height: 287px;
+  left: 868px;
+  position: absolute;
+  top: 638px;
+  width: 187px;
+}
+.form-selection .group-12-C61RwL {
+  background-color: transparent;
+  height: 287px;
+  left: 1227px;
+  position: absolute;
+  top: 638px;
+  width: 185px;
+}
+.form-selection .group-9-C61RwL {
+  background-color: transparent;
+  height: 287px;
+  left: 510px;
+  position: absolute;
+  top: 283px;
+  width: 185px;
+}
+.form-selection .initial-contact-9dtg3L {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: calc(46.11% - 57px);
+  text-align: left;
+  top: calc(38.40% - 9px);
+  white-space: nowrap;
+  width: 123px;
+}
+.form-selection .initial-contact-form-9dtg3L {
+  background-color: transparent;
+  bottom: -3px;
+  height: 24px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 10px);
+}
+.form-selection .line-10-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 155px;
+  width: 1920px;
+}
+.form-selection .log-out-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1745px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .moving-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1286px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .moving-form-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1260px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 549px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .open-requests-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1505px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.form-selection .path-1-9dtg3L {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.form-selection .path-1-C61RwL {
+  background-color: transparent;
+  height: 244px;
+  left: 1225px;
+  position: absolute;
+  top: 283px;
+  width: 184px;
+}
+.form-selection .path-1-CcEnn8 {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.form-selection .path-1-VMr6Om {
+  background-color: transparent;
+  height: 244px;
+  left: 508px;
+  position: absolute;
+  top: 638px;
+  width: 184px;
+}
+.form-selection .path-1-bAyQtV {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.form-selection .path-1-xFApRQ {
+  background-color: transparent;
+  height: calc(100.00% - 43px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+.form-selection .polygon-5-9dtg3L {
+  background-color: transparent;
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 61px;
+}
+.form-selection .polygon-5-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 1349px;
+  position: absolute;
+  top: 283px;
+  width: 61px;
+}
+.form-selection .polygon-5-CcEnn8 {
+  background-color: transparent;
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 61px;
+}
+.form-selection .polygon-5-VMr6Om {
+  background-color: transparent;
+  height: 59px;
+  left: 632px;
+  position: absolute;
+  top: 639px;
+  width: 61px;
+}
+.form-selection .polygon-5-bAyQtV {
+  background-color: transparent;
+  height: 59px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 61px;
+}
+.form-selection .polygon-5-xFApRQ {
+  background-color: transparent;
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 61px;
+}
+.form-selection .rectangle-13-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1689px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.form-selection .rectangle-14-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1481px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.form-selection .rectangle-15-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1273px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.form-selection .rectangle-16-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1065px;
+  pointer-events: auto;
+  position: absolute;
+  top: 79px;
+  transition: all 0.2s ease;
+  width: 181px;
+}
+.form-selection .rectangle-16-C61RwL:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.form-selection .service-order-CcEnn8 {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 26px;
+  text-align: left;
+  top: calc(38.40% - 9px);
+  white-space: nowrap;
+  width: 126px;
+}
+.form-selection .service-order-form-CcEnn8 {
+  background-color: transparent;
+  bottom: -3px;
+  height: 24px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+.form-selection .smalllogo-gv-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 63px;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+.segoeui-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --blue-dianne: rgba(35,69,93,1.0);
+  --celeste: rgba(204,204,204,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --white: rgba(255,255,255,1.0);
+}

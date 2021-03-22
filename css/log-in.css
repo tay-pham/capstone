@@ -1,0 +1,199 @@
+/* screen - log-in */
+
+.arial-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-blue-dianne-20px {
+  color: var(--blue-dianne);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-galliano {
+  border: 1px solid var(--galliano);
+}
+.log-in {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.log-in .gvam-logoreversegold-C61RwL {
+  background-color: transparent;
+  height: 334px;
+  left: 660px;
+  position: absolute;
+  top: 126px;
+  width: 601px;
+}
+.log-in .log-in-C61RwL {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 919px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 798px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in .password-C61RwL {
+  background-color: transparent;
+  color: rgba(167,167,166,1.0);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 797px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 591px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in .rectangle-21-C61RwL {
+  background-color: var(--celeste);
+  border-radius: 8px;
+  height: 40px;
+  left: 797px;
+  position: absolute;
+  top: 504px;
+  width: 326px;
+}
+.log-in .rectangle-22-C61RwL {
+  background-color: var(--celeste);
+  border-radius: 8px;
+  height: 44px;
+  left: 797px;
+  position: absolute;
+  top: 626px;
+  width: 326px;
+}
+.log-in .rectangle-23-C61RwL {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 62px;
+  left: 875px;
+  position: absolute;
+  top: 780px;
+  width: 171px;
+}
+.log-in .rectangle-41-C61RwL {
+  background-color: var(--green-pea);
+  height: 1088px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.log-in .user-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 834px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in .username-C61RwL {
+  background-color: transparent;
+  color: rgba(167,167,166,1.0);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 797px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 469px;
+  white-space: nowrap;
+  width: auto;
+}
+.log-in .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 834px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 641px;
+  white-space: nowrap;
+  width: auto;
+}
+.segoeui-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --blue-dianne: rgba(35,69,93,1.0);
+  --celeste: rgba(204,204,204,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --white: rgba(255,255,255,1.0);
+}

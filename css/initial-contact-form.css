@@ -1,0 +1,545 @@
+/* screen - initial-contact-form */
+
+.arial-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-blue-dianne-20px {
+  color: var(--blue-dianne);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-galliano {
+  border: 1px solid var(--galliano);
+}
+.initial-contact-form {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.initial-contact-form .auction-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1330px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .city-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 648px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .customers-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .date-created-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 648px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 588px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .email-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .first-name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .form-completed-by-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 648px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 482px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .in-person-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .initial-contact-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 588px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .initial-contact-form-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .interested-service-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 277px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 588px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .last-name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .last-name-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 276px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .line-10-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 155px;
+  width: 1920px;
+}
+.initial-contact-form .log-out-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1745px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .moving-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 292px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .open-requests-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1505px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .phone-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .polygon-1-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 183px;
+  position: absolute;
+  top: 634px;
+  width: 20px;
+}
+.initial-contact-form .polygon-4-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 399px;
+  position: absolute;
+  top: 634px;
+  width: 20px;
+}
+.initial-contact-form .rectangle-13-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1689px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.initial-contact-form .rectangle-14-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1481px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.initial-contact-form .rectangle-15-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1273px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.initial-contact-form .rectangle-16-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1065px;
+  pointer-events: auto;
+  position: absolute;
+  top: 79px;
+  transition: all 0.2s ease;
+  width: 181px;
+}
+.initial-contact-form .rectangle-16-C61RwL:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.initial-contact-form .rectangle-25-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 64px;
+  position: absolute;
+  top: 327px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-26-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 276px;
+  position: absolute;
+  top: 327px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-27-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 64px;
+  position: absolute;
+  top: 422px;
+  width: 376px;
+}
+.initial-contact-form .rectangle-28-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 64px;
+  position: absolute;
+  top: 516px;
+  width: 376px;
+}
+.initial-contact-form .rectangle-29-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 276px;
+  position: absolute;
+  top: 327px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-30-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 61px;
+  position: absolute;
+  top: 622px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-31-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 61px;
+  position: absolute;
+  top: 622px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-32-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 277px;
+  position: absolute;
+  top: 622px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-33-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 277px;
+  position: absolute;
+  top: 622px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-34-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 648px;
+  position: absolute;
+  top: 316px;
+  width: 376px;
+}
+.initial-contact-form .rectangle-35-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 648px;
+  position: absolute;
+  top: 422px;
+  width: 164px;
+}
+.initial-contact-form .rectangle-36-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 846px;
+  position: absolute;
+  top: 422px;
+  width: 44px;
+}
+.initial-contact-form .rectangle-37-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 927px;
+  position: absolute;
+  top: 422px;
+  width: 97px;
+}
+.initial-contact-form .rectangle-38-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 648px;
+  position: absolute;
+  top: 516px;
+  width: 376px;
+}
+.initial-contact-form .rectangle-39-C61RwL {
+  background-color: var(--white);
+  height: 39px;
+  left: 648px;
+  position: absolute;
+  top: 622px;
+  width: 376px;
+}
+.initial-contact-form .rectangle-40-C61RwL {
+  background-color: var(--galliano);
+  border-radius: 8px;
+  height: 48px;
+  left: 902px;
+  position: absolute;
+  top: 728px;
+  width: 122px;
+}
+.initial-contact-form .smalllogo-gv-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 63px;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+.initial-contact-form .state-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 846px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .street-address-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 648px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 282px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .submit-C61RwL {
+  background-color: transparent;
+  color: rgba(255,253,253,1.0);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 742px;
+  white-space: nowrap;
+  width: auto;
+}
+.initial-contact-form .zip-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 927px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  white-space: nowrap;
+  width: auto;
+}
+.segoeui-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --blue-dianne: rgba(35,69,93,1.0);
+  --celeste: rgba(204,204,204,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --white: rgba(255,255,255,1.0);
+}

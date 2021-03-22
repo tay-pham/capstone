@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/form-selection.css" />
+    <style>
+      @font-face {
+        font-family: "Arial-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: "Arial-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4fb9717d3628000b06e02f/segoe-ui.ttf") format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="form-selection" />
+    <div class="container-center-horizontal">
+      <div class="form-selection screen">
+        <a href="log-in.html"> <div class="rectangle-13-C61RwL"></div></a>
+        <a href="log-in.html"><div class="log-out-C61RwL arial-regular-normal-white-20px">Log Out</div></a>
+        <div class="rectangle-14-C61RwL"></div>
+        <div class="open-requests-C61RwL arial-regular-normal-white-20px">Open Requests</div>
+        <div class="rectangle-15-C61RwL"></div>
+        <div class="auction-C61RwL arial-regular-normal-white-20px">Auction</div>
+        <a href="customer-directory.html"> <div class="rectangle-16-C61RwL smart-layers-pointers"></div></a>
+        <a href="customer-directory.html"
+          ><div class="customers-C61RwL arial-regular-normal-white-20px">Customers</div></a
+        >
+        <img class="line-10-C61RwL" src="img/line-10@1x.png" />
+        <img class="smalllogo-gv-C61RwL" src="img/smalllogo-gv@1x.png" />
+        <a href="initial-contact-form.html">
+          <div class="group-9-C61RwL">
+            <img class="path-1-9dtg3L" src="img/path-1@1x.png" />
+            <img class="polygon-5-9dtg3L" src="img/polygon-5@1x.png" />
+            <div class="initial-contact-9dtg3L arial-regular-normal-white-20px">Initial Contact</div>
+            <div class="initial-contact-form-9dtg3L arial-regular-normal-blue-dianne-20px">Initial Contact Form</div>
+          </div></a
+        >
+        <a href="service-order-form.html">
+          <div class="group-10-C61RwL">
+            <img class="path-1-CcEnn8" src="img/path-1@1x.png" />
+            <img class="polygon-5-CcEnn8" src="img/polygon-5@1x.png" />
+            <div class="service-order-CcEnn8 arial-regular-normal-white-20px">Service Order</div>
+            <div class="service-order-form-CcEnn8 arial-regular-normal-blue-dianne-20px">Service Order Form</div>
+          </div></a
+        >
+        <img class="path-1-C61RwL" src="img/path-1@1x.png" />
+        <img class="polygon-5-C61RwL" src="img/polygon-5@1x.png" />
+        <div class="moving-C61RwL arial-regular-normal-white-20px">Moving</div>
+        <div class="moving-form-C61RwL arial-regular-normal-blue-dianne-20px">Moving Form</div>
+        <div class="group-12-C61RwL">
+          <img class="path-1-xFApRQ" src="img/path-1@1x.png" />
+          <img class="polygon-5-xFApRQ" src="img/polygon-5@1x.png" />
+          <div class="completion-xFApRQ arial-regular-normal-white-20px">Completion</div>
+          <div class="completion-form-xFApRQ arial-regular-normal-blue-dianne-20px">Completion Form</div>
+        </div>
+        <div class="group-11-C61RwL">
+          <img class="path-1-bAyQtV" src="img/path-1@1x.png" />
+          <img class="polygon-5-bAyQtV" src="img/polygon-5@1x.png" />
+          <div class="auctionpickup-bAyQtV arial-regular-normal-white-20px">Auction<br />Pickup</div>
+          <div class="auction-pickup-form-bAyQtV arial-regular-normal-blue-dianne-20px">Auction Pickup Form</div>
+        </div>
+        <img class="path-1-VMr6Om" src="img/path-1@1x.png" />
+        <img class="polygon-5-VMr6Om" src="img/polygon-5@1x.png" />
+        <div class="auctionscheduling-C61RwL arial-regular-normal-white-20px">Auction<br />Scheduling</div>
+        <div class="auction-scheduling-form-C61RwL arial-regular-normal-blue-dianne-20px">Auction Scheduling Form</div>
+      </div>
+    </div>
+  </body>
+</html>

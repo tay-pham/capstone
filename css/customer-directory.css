@@ -1,0 +1,822 @@
+/* screen - customer-directory */
+
+.arial-regular-normal-black-20px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-blue-dianne-20px {
+  color: var(--blue-dianne);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-white-20px {
+  color: var(--white);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+.border-1px-galliano {
+  border: 1px solid var(--galliano);
+}
+.customer-directory {
+  background-color: var(--white);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.customer-directory .address-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .auction-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1330px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .customers-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1109px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .customers-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 97px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 206px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .duke-dog-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 698px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .duke-dog-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 430px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .duke-dog-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 630px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .duke-dog-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 496px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .duke-dog-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 564px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .dukesjmuedu-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 413px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 696px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .dukesjmuedu-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .dukesjmuedu-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 628px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .dukesjmuedu-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .dukesjmuedu-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .e-mail-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 413px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .ellipse-1-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 16px;
+  left: 688px;
+  position: absolute;
+  top: 220px;
+  width: 16px;
+}
+.customer-directory .line-10-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 155px;
+  width: 1920px;
+}
+.customer-directory .line-11-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 702px;
+  position: absolute;
+  top: 233px;
+  width: 7px;
+}
+.customer-directory .line-12-C61RwL {
+  background-color: transparent;
+  height: 34px;
+  left: 676px;
+  position: absolute;
+  top: 214px;
+  width: 1px;
+}
+.customer-directory .line-15-C61RwL {
+  background-color: transparent;
+  height: 17px;
+  left: 1494px;
+  position: absolute;
+  top: 220px;
+  width: 1px;
+}
+.customer-directory .line-16-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 1484px;
+  position: absolute;
+  top: 228px;
+  width: 20px;
+}
+.customer-directory .log-out-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1745px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .move-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 698px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .move-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .move-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .move-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .move-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .name-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .new-customer-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1517px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 698px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .open-requests-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1505px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .order-a-z-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1042px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .phone-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 744px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .polygon-1-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 934px;
+  position: absolute;
+  top: 223px;
+  width: 20px;
+}
+.customer-directory .polygon-2-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 1164px;
+  position: absolute;
+  top: 222px;
+  width: 20px;
+}
+.customer-directory .polygon-3-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 1395px;
+  position: absolute;
+  top: 222px;
+  width: 20px;
+}
+.customer-directory .rectangle-13-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1689px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.customer-directory .rectangle-14-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1481px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.customer-directory .rectangle-15-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1273px;
+  position: absolute;
+  top: 79px;
+  width: 181px;
+}
+.customer-directory .rectangle-16-C61RwL {
+  background-color: var(--green-pea);
+  border-radius: 8px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 39px;
+  left: 1065px;
+  pointer-events: auto;
+  position: absolute;
+  top: 79px;
+  transition: all 0.2s ease;
+  width: 181px;
+}
+.customer-directory .rectangle-16-C61RwL:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.customer-directory .rectangle-17-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 32px;
+  left: 779px;
+  position: absolute;
+  top: 214px;
+  width: 186px;
+}
+.customer-directory .rectangle-18-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 32px;
+  left: 1009px;
+  position: absolute;
+  top: 213px;
+  width: 186px;
+}
+.customer-directory .rectangle-19-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 32px;
+  left: 1240px;
+  position: absolute;
+  top: 213px;
+  width: 186px;
+}
+.customer-directory .rectangle-20-C61RwL {
+  background-color: var(--white);
+  height: 34px;
+  left: 413px;
+  position: absolute;
+  top: 214px;
+  width: 310px;
+}
+.customer-directory .rectangle-24-C61RwL {
+  background-color: var(--galliano);
+  border-radius: 8px;
+  height: 32px;
+  left: 1471px;
+  position: absolute;
+  top: 213px;
+  width: 186px;
+}
+.customer-directory .rectangle-41-C61RwL {
+  background-color: var(--celeste);
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 282px;
+  width: 1921px;
+}
+.customer-directory .search-customers-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 430px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .service-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1724px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .service-all-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1265px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .smalllogo-gv-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 63px;
+  position: absolute;
+  top: 37px;
+  width: 127px;
+}
+.customer-directory .status-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1537px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .status-open-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 796px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-456-7890-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 752px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 696px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-456-7890-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-456-7890-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 628px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-456-7890-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 494px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-456-7890-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 751px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-bluestone-d-onburg-va-22801-2P4qUJ {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 696px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-bluestone-d-onburg-va-22801-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 430px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-bluestone-d-onburg-va-22801-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 628px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-bluestone-d-onburg-va-22801-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: auto;
+}
+.customer-directory .x123-bluestone-d-onburg-va-22801-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1044px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 562px;
+  white-space: nowrap;
+  width: auto;
+}
+.segoeui-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-25px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.segoeui-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --blue-dianne: rgba(35,69,93,1.0);
+  --celeste: rgba(204,204,204,1.0);
+  --dove-gray: rgba(112,112,112,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --white: rgba(255,255,255,1.0);
+}
